@@ -1,3 +1,5 @@
+#Create a program for a Smartphone System using Multiple Inheritance.
+
 class Camera:
     def __init__(self, camera_quality):
         self.camera_quality = camera_quality
