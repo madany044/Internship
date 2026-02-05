@@ -1,6 +1,3 @@
-day 2 code 
-
-# Parent Class
 class Book:
     def __init__(self, title, author):
         self.title = title
